@@ -1,0 +1,27 @@
+# Ignore model files
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+*.xml
+
+# Ignore data
+*.csv
+*.xlsx
+*.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.pkl
+*.joblib
+*.xml
+__pycache__/
+*.pyc
+.env
+venv/
+dataset/
