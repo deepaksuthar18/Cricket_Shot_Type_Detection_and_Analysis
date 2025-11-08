@@ -103,11 +103,5 @@ This project bridges the gap between AI and sports. While many datasets exist fo
 
 If you're a sports analyst, AI enthusiast, or cricket fan — this project is for you! It's a small step towards making intelligent, real-time sports analytics accessible to all.
 
----
-
-## 📬 Contact
-
-Feel free to reach out for collaboration, suggestions, or implementation help!
-=======
 # cricket-shot-type-detection-analysis-
 >>>>>>> 163320c774be955e351706cf4341d2d5bc9e9bda
