@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏏 Cricket Shot Type Detection and Analysis
 
 ## 📌 Overview
